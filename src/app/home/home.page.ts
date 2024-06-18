@@ -9,4 +9,7 @@ export class HomePage {
 
   constructor() {}
 
+  // based on time take message like Good Morning, Govind
+  message = "Secured me !!!";
+
 }
